@@ -3,8 +3,8 @@ import { Link } from "react-router-dom";
 export function Weather() {
   // Mock weather data (in a real app, fetch from an API like OpenWeatherMap)
   const currentWeather = {
-    location: "New York, NY",
-    temperature: "72°F",
+    location: "tindouf",
+    temperature: "50°F",
     condition: "Sunny",
     humidity: "45%",
     wind: "10 mph NW",

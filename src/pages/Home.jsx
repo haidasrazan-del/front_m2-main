@@ -356,7 +356,7 @@ export function Home() {
           <div style={styles.weatherDetails}>
             <div style={styles.weatherDetailBox}>
               <div>Location</div>
-              <div>Tindouf</div>
+              <div>tindouf</div>
             </div>
             {/* Add more details if available */}
           </div>
